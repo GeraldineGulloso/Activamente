@@ -5,6 +5,10 @@ body {
     font-weight: 300;
 }
 
+body h1, body h2{
+    font-family: itim;
+}
+
 nav {
     background: none repeat scroll 0 0 #162b4d;
     position: relative;
@@ -269,6 +273,11 @@ footer a:visited {
     margin: 1.25em 0;
     max-width: 100%;
     width: auto;
+}
+.author a:hover{
+    box-shadow: 0 0 3px #161616d4;
+   
+    
 }
 
 p.author {
